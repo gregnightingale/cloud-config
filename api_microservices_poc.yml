@@ -1,5 +1,2 @@
-a:
-	b:
-		c: foo
-			d: goo
-		c1: bar
+a: foo
+b: bar
